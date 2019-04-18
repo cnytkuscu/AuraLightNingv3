@@ -1,0 +1,12 @@
+C:\Users\Tyenuc\Desktop\Graduation Project\AuraLightningCSharp\AuraLightning\AuraLightning\bin\Debug\AuraLightning.exe.config
+C:\Users\Tyenuc\Desktop\Graduation Project\AuraLightningCSharp\AuraLightning\AuraLightning\bin\Debug\AuraLightning.exe
+C:\Users\Tyenuc\Desktop\Graduation Project\AuraLightningCSharp\AuraLightning\AuraLightning\bin\Debug\AuraLightning.pdb
+C:\Users\Tyenuc\Desktop\Graduation Project\AuraLightningCSharp\AuraLightning\AuraLightning\obj\Debug\AuraLightning.GameDetails.resources
+C:\Users\Tyenuc\Desktop\Graduation Project\AuraLightningCSharp\AuraLightning\AuraLightning\obj\Debug\AuraLightning.MainMenu.resources
+C:\Users\Tyenuc\Desktop\Graduation Project\AuraLightningCSharp\AuraLightning\AuraLightning\obj\Debug\AuraLightning.NonGameMenu.resources
+C:\Users\Tyenuc\Desktop\Graduation Project\AuraLightningCSharp\AuraLightning\AuraLightning\obj\Debug\AuraLightning.Properties.Resources.resources
+C:\Users\Tyenuc\Desktop\Graduation Project\AuraLightningCSharp\AuraLightning\AuraLightning\obj\Debug\AuraLightning.csproj.GenerateResource.cache
+C:\Users\Tyenuc\Desktop\Graduation Project\AuraLightningCSharp\AuraLightning\AuraLightning\obj\Debug\AuraLightning.csproj.CoreCompileInputs.cache
+C:\Users\Tyenuc\Desktop\Graduation Project\AuraLightningCSharp\AuraLightning\AuraLightning\obj\Debug\AuraLightning.exe
+C:\Users\Tyenuc\Desktop\Graduation Project\AuraLightningCSharp\AuraLightning\AuraLightning\obj\Debug\AuraLightning.pdb
+C:\Users\Tyenuc\Desktop\Graduation Project\AuraLightningCSharp\AuraLightning\AuraLightning\obj\Debug\AuraLightning.csprojAssemblyReference.cache
